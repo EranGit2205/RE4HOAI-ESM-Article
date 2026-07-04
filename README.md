@@ -4,7 +4,7 @@ This repository contains the electronic supplementary materials for the article:
 
 **How Teams Decide on Human Oversight in AI-Powered Systems: A Mixed-Methods Study**
 
-The article presents **RE4HOAI**, a lifecycle-oriented Requirements Engineering framework for defining, negotiating, and revisiting human-oversight requirements in AI-powered systems. The supplementary materials provide additional evidence, methodological details, supporting analyses, and data artifacts related to the framework construction, expert refinement, and survey-based assessment.
+The article presents **RE4HOAI**, a lifecycle-oriented Requirements Engineering framework for defining, negotiating, and revisiting human-oversight requirements in AI-powered systems. The supplementary materials provide additional evidence, methodological details, supporting analyses, and data artifacts related to the framework construction, expert evaluation and evolvement, and survey-based assessment.
 
 ## Repository contents
 
